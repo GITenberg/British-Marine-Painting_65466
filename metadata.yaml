@@ -1,0 +1,33 @@
+_repo: British-Marine-Painting_65466
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Baldry, A. L. (Alfred Lys)
+    alias: Baldry, Alfred Lys
+    birthdate: 1858
+    deathdate: 1939
+    gutenberg_agent_id: '38541'
+    url: http://www.gutenberg.org/2009/agents/38541
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Lys_Baldry
+  - agent_name: Holme, C. Geoffrey (Charles Geoffrey)
+    aliases:
+    - Holme, Geoffrey
+    - Holme, C. G. (Charles Geoffrey)
+    - Holme, Charles Geoffrey
+    birthdate: 1887
+    deathdate: 1954
+    gutenberg_agent_id: '25298'
+    url: http://www.gutenberg.org/2009/agents/25298
+description: ''
+gutenberg_issued: '2021-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: British Marine Painting
+url: http://www.gutenberg.org/ebooks/65466
